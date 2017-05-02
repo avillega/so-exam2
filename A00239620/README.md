@@ -2,6 +2,8 @@
 
 ## Repositorio para subir el codigo fuente del parcial 2
 
+Para el desarrollo de este parcial se uso Flask, psutil, flask_sqlalchemy y flask_restplus
+
 Punto 3. Para este punto se uso el archivo register_data. En este archivo se creo una clase que heredaba de `Thread` y se implementaron
 los metodo necesarios para que se ejecutara cada tiempo determinado. este tiempo determinado se pasa por parametro del cosntructor   
 
